@@ -1,0 +1,11 @@
+Message,Expected Label
+"My package arrived damaged. I want a replacement immediately.",Complaint
+"How can I reset my account password?",Question
+"Your support team was incredibly helpful. Thank you!",Praise
+"I've been charged twice for the same order.",Complaint
+"Do you offer international shipping?",Question
+"The app keeps crashing every time I open it.",Complaint
+"I absolutely love the new interface. Great job!",Praise
+"When will my refund be processed?",Question
+"The delivery was late and nobody responded to my emails.",Complaint
+"Fantastic service! I'll definitely recommend your company.",Praise
